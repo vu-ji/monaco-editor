@@ -21,3 +21,5 @@ function huskyInstall() {
 }
 
 huskyInstall();
+
+require('./postinstall-wujie-patch');

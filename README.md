@@ -1,3 +1,6 @@
+# Monaco Editor for Wujie
+* fix: patch getShadowRoot for Wujie support
+
 # Monaco Editor
 
 [![Versions](https://img.shields.io/npm/v/monaco-editor)](https://www.npmjs.com/package/monaco-editor)
