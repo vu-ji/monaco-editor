@@ -102,5 +102,8 @@
 	"alias": {
 		"process": false,
 		"buffer": false
+	},
+	"dependencies": {
+		"@rollup/rollup-darwin-arm64": "^4.57.0"
 	}
 }

@@ -36,9 +36,8 @@ export default defineConfig({
 		dts({
 			compilerOptions: {
 				stripInternal: true
-			},
-			includeExternal: ['monaco-editor-core', '@vscode/monaco-lsp-client']
+			}
 		}),
-		dtsDeprecationWarning(),
+		dtsDeprecationWarning()
 	]
 });
